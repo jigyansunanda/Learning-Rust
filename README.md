@@ -1,2 +1,6 @@
-# Learning-Rust
-I finally caved in and decided to learn Rust.
+## Learning Rust
+
+| Date         | Events                                      |
+| ------------ | ------------------------------------------- |
+| June 2, 2024 | Finally caved in and decided to learn Rust. |
+| June 4, 2024 | Love it                                     |
