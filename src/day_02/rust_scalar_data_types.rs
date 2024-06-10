@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 pub fn data_types_in_rust() {
     /* A scalar type represents a single value.
     Rust has four primary scalar types:

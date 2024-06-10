@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 pub fn variables_in_rust() {
     // variables and mutability:
     // can reassign values to

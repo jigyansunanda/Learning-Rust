@@ -3,7 +3,7 @@ mod day_01 {
 }
 
 mod day_02 {
-    pub mod rust_data_types;
+    pub mod rust_scalar_data_types;
     pub mod rust_variables;
 }
 
@@ -15,5 +15,5 @@ fn main() {
     // day_02::rust_variables::variables_in_rust();
 
     // day-02: data-types
-    day_02::rust_data_types::data_types_in_rust();
+    day_02::rust_scalar_data_types::data_types_in_rust();
 }
