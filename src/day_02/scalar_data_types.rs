@@ -1,5 +1,5 @@
 #[allow(dead_code)]
-pub fn data_types_in_rust() {
+pub fn scalar_data_types_in_rust() {
     /* A scalar type represents a single value.
     Rust has four primary scalar types:
         1. Integers
