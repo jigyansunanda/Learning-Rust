@@ -1,5 +1,11 @@
-mod day_01;
-mod day_02;
+mod day_01 {
+    pub mod guessing_game;
+}
+
+mod day_02 {
+    pub mod rust_data_types;
+    pub mod rust_variables;
+}
 
 fn main() {
     // day-01: guessing game
