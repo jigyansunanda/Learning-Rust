@@ -1,4 +1,4 @@
-fn main() {
+pub fn variables_in_rust() {
     // variables and mutability:
     // can reassign values to
     // variables only if they are mutable

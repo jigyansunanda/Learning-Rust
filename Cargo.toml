@@ -1,5 +1,5 @@
 [package]
-name = "day-01-programming-a-guessing-game"
+name = "Learning-Rust"
 version = "0.1.0"
 edition = "2021"
 
