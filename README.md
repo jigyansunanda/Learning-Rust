@@ -6,3 +6,4 @@
 | June 4, 2024  | Love it                                      |
 | June 10, 2024 | Made better folder structure using modules   |
 | June 11, 2024 | Expressions (no ";") seems very javascript-y |
+| June 11, 2024 | Looping (loop, for) is interesting in Rust   |

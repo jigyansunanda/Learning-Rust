@@ -4,6 +4,7 @@ mod day_01 {
 
 mod day_02 {
     pub mod compound_data_types;
+    pub mod control_flow;
     pub mod functions;
     pub mod scalar_data_types;
     pub mod variables;
@@ -23,5 +24,8 @@ fn main() {
     // day_02::compound_data_types::compound_data_types_in_rust();
 
     // day-02: functions
-    day_02::functions::functions_in_rust();
+    // day_02::functions::functions_in_rust();
+
+    // day-02: control flow
+    day_02::control_flow::control_flow_in_rust();
 }
